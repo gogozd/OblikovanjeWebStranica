@@ -1,0 +1,18 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "LokalniFont";
+  src: url("./fonts/UniversCE45Light.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/UniversCE45Light.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/UniversCE45Light.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/UniversCE45Light.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/UniversCE45Light.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/UniversCE45Light.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/UniversCE45Light.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+h1 {
+    color:azure;
+    text-align: left;
+}
